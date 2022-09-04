@@ -1,0 +1,82 @@
+/* Applies to all pages */
+
+body{
+    background-image: url(https://i.pinimg.com/originals/98/10/72/981072c1046a6ce2eab30f6036ce0666.jpg);
+}
+
+
+/* Cookie Orders Page */
+
+#title{
+    margin-top: 5%;
+    margin-left: 15%;
+    padding: 20px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    opacity: 90%;
+    width: 70%;
+    border: 3px solid black;
+}
+
+#all_orders{
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+#table{
+    width: 70%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    border: 3px solid black;
+}
+
+.wrapper{
+    display: flex;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    opacity: 90%;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: space-between;
+    border: 3px solid black;
+}
+
+#new_order{
+    font-size: 20px;
+    margin-top: 5%;
+    margin-right: 1%;
+}
+
+/* Cookies/New Page  */
+
+.main{
+    background-color: whitesmoke;
+    opacity: 95%;
+    width: 70%;
+    margin: 0 auto;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+.head{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-bottom: 2%;
+    padding: 20px;
+    background-color: whitesmoke;
+    justify-content: space-between;
+    opacity: 90%;
+    width: 70%;
+    border: 3px solid black;
+}
+
+#input{
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+#log{
+    width:70%;
+    margin: 0 auto;
+}
